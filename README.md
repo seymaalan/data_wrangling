@@ -5,6 +5,8 @@ I gathered, cleaned, and analyzed an interesting dataset on Python: WeRateDogs t
 ## Datasets
 I worked on three datasets:
 
-Enhanced twitter dataset: The dataset that I have worked on contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. Using post text, dog names, ratings and dog stages are extracted. I downloaded the given csv file for the dataset.
-Retweet and favorite counts dataset: I downloaded retweet and favorite counts for the tweets from Twitter's database. Actually, there is an issue so I had to use prepared json file.
-Predicted breeds dataset: Using images from tweets, a machine learning algorithm predicted the breed of the dog, and I also used this dataset. With request library, I created a request and download dataset as tsv file.
+-Enhanced twitter dataset: The dataset that I have worked on contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. Using post text, dog names, ratings and dog stages are extracted. I downloaded the given csv file for the dataset.
+
+-Retweet and favorite counts dataset: I downloaded retweet and favorite counts for the tweets from Twitter's database. Actually, there is an issue so I had to use prepared json file.
+
+-Predicted breeds dataset: Using images from tweets, a machine learning algorithm predicted the breed of the dog, and I also used this dataset. With request library, I created a request and download dataset as tsv file.
